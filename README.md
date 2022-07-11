@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vishnu K Sivan</h1>
 <h3 align="center">A passionate Android developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47mb0850s2xbizn8gea0ysvapfatetuq0kbo7zdjr6&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnukc1105&label=Profile%20views&color=0e75b6&style=flat" alt="vishnukc1105" /> </p>
