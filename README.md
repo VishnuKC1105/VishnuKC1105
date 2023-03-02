@@ -1,15 +1,15 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vishnu K Sivan</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnukc1105&label=Profile%20views&color=0e75b6&style=flat" alt="vishnukc1105" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **HTML, CSS, Javascript**
 
-- 💬 Ask me about **Android, Flutter**
+- 💬 Ask me about **Frontend Web development**
 
 - 📫 How to reach me **vishnuksivan001@gmail.com**
 
