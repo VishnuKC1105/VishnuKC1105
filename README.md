@@ -29,10 +29,7 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"></p>
 
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-</div>
+![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=VishnuKC1105)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuKC1105)](https://github.com/VishnuKC1105/github-readme-stats)
 
