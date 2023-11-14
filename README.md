@@ -28,9 +28,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnukc1105&label=Profile%20views&color=0e75b6&style=flat" alt="vishnukc1105" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **ASP.NET Core REST API**
 
-- 💬 Ask me about **Frontend Web development**
+- 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **vishnuksivan001@gmail.com**
 
