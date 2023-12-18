@@ -20,6 +20,7 @@
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
+# 💫 About Me:
 🔭 I’m currently working on Asp.NET Core projects<br>🌱 I’m currently learning Angular, C# and Sql server<br>💬 Ask me about Full stack web development<br>🤝 I’m looking for help with the above mentioned tech stack<br>⚡ Fun fact: I use tabs over spaces
 
 
@@ -35,6 +36,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VishnuKC1105&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VishnuKC1105&icon=2&color=0)](https://visitcount.itsvg.in)
