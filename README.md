@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on Asp.NET Core projects<br>🌱 I’m currently learning Angular, C# and Sql server<br>💬 Ask me about Full stack web development<br>🤝 I’m looking for help with the above mentioned tech stack<br>⚡ Fun fact: I use tabs over spaces
+🔭 I’m currently working on Asp.NET Core projects<br>🌱 I’m currently learning C#, .NET and Azure<br>💬 Ask me about Full stack web development<br>🤝 I’m looking for help with the above mentioned tech stack<br>⚡ Fun fact: I use tabs over spaces
 
 
 ## 🌐 Socials:
